@@ -1,1 +1,3 @@
-This is the third test file 
+This is the third merge  file 
+Created 2 branch files -Test and Stage
+
